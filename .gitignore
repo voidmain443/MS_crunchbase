@@ -1,0 +1,15 @@
+## Ignore file ##
+
+crunchbase_data_files/
+crunchbase_python_files/
+.vscode/
+.ipynb_checkpoints/
+.idea/
+.DS_Store
+natural_earth_vector
+crunchbase.db
+
+bin/
+etc/
+lib/
+share/
